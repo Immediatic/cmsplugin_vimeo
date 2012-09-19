@@ -1,0 +1,9 @@
+<div class='vimeo' style='width: {{ object.width }}px; height: {{ object.height }}px;'>
+    <iframe src="http://player.vimeo.com/video/{{ object.video_id }}?autoplay={{ object.autoplay|yesno:"1,0" }}&amp;loop={{ object.loop|yesno:"1,0" }}"
+            width="{{ object.width }}" height="{{ object.height }}"
+            frameborder="{{ object.border|yesno:"1,0" }}"
+            webkitAllowFullScreen
+            mozallowfullscreen
+            allowFullScreen>
+    </iframe>
+</div>
