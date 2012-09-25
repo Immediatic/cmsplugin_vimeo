@@ -1,8 +1,8 @@
 cmsplugin_vimeo
 ===============
 
-Name: cmsplugin-vimeo
-Description: Plugin for Django CMS that makes easy to embed Vimeo movies.
+Plugin for Django CMS that makes easy to embed Vimeo movies.
+
 Download: https://github.com/Immediatic/cmsplugin_vimeo
 
 Requirements:
