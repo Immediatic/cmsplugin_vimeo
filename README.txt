@@ -24,11 +24,11 @@ Setup
 Settings
 --------
 
-CMS_VIMEO_DEFAULT_AUTOPLAY      (Default False)
-CMS_VIMEO_DEFAULT_WIDTH         (Default 425)
-CMS_VIMEO_DEFAULT_HEIGHT        (Default 344)
-CMS_VIMEO_DEFAULT_BORDER        (Default False)
-CMS_VIMEO_DEFAULT_LOOP          (Default False)
+- CMS_VIMEO_DEFAULT_AUTOPLAY      (Default False)
+- CMS_VIMEO_DEFAULT_WIDTH         (Default 425)
+- CMS_VIMEO_DEFAULT_HEIGHT        (Default 344)
+- CMS_VIMEO_DEFAULT_BORDER        (Default False)
+- CMS_VIMEO_DEFAULT_LOOP          (Default False)
 
 Credits
 -------
