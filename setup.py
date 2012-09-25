@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-PACKAGE_NAME = 'cmsplugin_youtube'
+PACKAGE_NAME = 'cmsplugin_vimeo'
 PACKAGE_DIR = PACKAGE_NAME
 
 import os, sys
